@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Nov 16 10:53:33 2018
+Created on Jan 16 10:53:33 2019
 
-@author: atfas
+@author: atfashina
 """
 
 from numpy import array
